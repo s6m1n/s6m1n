@@ -1,5 +1,4 @@
 ## Hi, i'm Somin Lee 👋
-<br>
 Sejong Univ IME
 from 2019~
 <br>
