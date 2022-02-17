@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi i'm somin 👋
+<br>
+<hr>
+## Sejong Univ IME
+# Interested in ML/NLP
+<br>
 <!--
 **s6m1n/s6m1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
