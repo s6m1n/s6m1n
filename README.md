@@ -1,5 +1,5 @@
 ## Hi, i'm Somin Lee 👋
-**Sejong Univ IME** from 2019~
+**Sejong Univ IME**   2019~
 <br>
 Interested in **ML/NLP**
 <br>
