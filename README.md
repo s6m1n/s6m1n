@@ -1,8 +1,7 @@
 ## Hi, i'm Somin Lee 👋
-Sejong Univ IME
-from 2019~
+**Sejong Univ IME** from 2019~
 <br>
-Interested in ML/NLP
+Interested in **ML/NLP**
 <br>
 <!--
 **s6m1n/s6m1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
