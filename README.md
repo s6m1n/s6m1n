@@ -1,7 +1,5 @@
-### Hi i'm Somin Lee 👋
+# Hi i'm Somin Lee 👋
 <br>
-<hr>
-<h2>
 Sejong Univ IME
 <br>
 Interested in ML/NLP
