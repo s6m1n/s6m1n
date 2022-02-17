@@ -1,8 +1,9 @@
 ### Hi i'm somin 👋
 <br>
 <hr>
-h2
+<h2>
 ## Sejong Univ IME
+<br>
 # Interested in ML/NLP
 <br>
 <!--
