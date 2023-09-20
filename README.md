@@ -1,9 +1,9 @@
 <div align="center">
 
+https://github.com/s6m1n/s6m1n/assets/46596035/e0782552-d7f3-4489-b0b9-d71790548992
+
 ### Hi, i'm **Somin Lee**
 mobile appication developer using **Android**
-![ ](https://github.com/s6m1n/s6m1n/assets/46596035/fedcbf71-f561-4d59-aab9-e20b09c7b00d)
-
 
 <br>
 
