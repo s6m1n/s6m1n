@@ -1,6 +1,6 @@
 <div align="center">
 
-https://github.com/s6m1n/s6m1n/assets/46596035/e0782552-d7f3-4489-b0b9-d71790548992
+![](https://github.com/s6m1n/s6m1n/assets/46596035/98d8265a-a2db-4a5e-9249-885a118ddd09)
 
 ### Hi, i'm **Somin Lee**
 mobile appication developer using **Android**
