@@ -1,6 +1,4 @@
 <div align="center">
-  
-![](https://github.com/s6m1n/s6m1n/assets/46596035/bdec87ab-d48b-4fdc-aadd-789f461e8266)
 
 ### Hi, i'm **Somin Lee**
 mobile appication developer using **Android**
@@ -11,11 +9,11 @@ mobile appication developer using **Android**
 
 <br>
 
-**🐣 Platforms & Languages**
-
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+**🐣 Languages & Platforms**
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 **🌱 Used at least once**
 
