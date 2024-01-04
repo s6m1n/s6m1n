@@ -1,7 +1,6 @@
 <div align="center">
 
-
-![](https://github.com/s6m1n/s6m1n/assets/46596035/0210f7d0-c543-4d87-9c4f-30149e7bdbfb)
+![](https://github.com/s6m1n/s6m1n/assets/46596035/ceb6558d-8e49-4f77-8ad4-23a5feb4aedf)
 
 
 ### Hi, i'm **Somin Lee**
