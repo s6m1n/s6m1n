@@ -1,13 +1,15 @@
 <div align="center">
 
+
+![](https://github.com/s6m1n/s6m1n/assets/46596035/0210f7d0-c543-4d87-9c4f-30149e7bdbfb)
+
+
 ### Hi, i'm **Somin Lee**
 mobile appication developer using **Android**
 
 <br>
 
 ### 🛠️ Tech Stack 🛠️
-
-<br>
 
 **🐣 Languages & Platforms**
 
