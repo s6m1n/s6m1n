@@ -9,9 +9,9 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/s6m1n"
-    width="600"
-    height="120"
+  src="https://render.gitanimals.org/farms/s6m1n"
+  width="470"
+  height="230"
   />
 </a>
 
