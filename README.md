@@ -1,5 +1,5 @@
 ### Hi, i'm **Somin Lee**
- **Android** mobile appication developer
+ **Android** mobile application developer
 
 #### 🛠️ Tech Stack
 
